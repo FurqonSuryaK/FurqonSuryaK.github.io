@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Penjualan Batubara](/sample_page)
+<img src="https://user-images.githubusercontent.com/113487307/190850704-729aa135-7447-4f70-9b9d-354cc131b213.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:14px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
